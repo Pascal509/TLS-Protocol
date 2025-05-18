@@ -1,0 +1,24 @@
+{
+  "name": "tls-protocol",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "TLS in Backend Engineering; HTTPS with Express.js (Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pascal509/TLS-Protocol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pascal509/TLS-Protocol/issues"
+  },
+  "homepage": "https://github.com/Pascal509/TLS-Protocol#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
